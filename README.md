@@ -80,18 +80,8 @@ Feature selection was based on both statistical correlation and medical relevanc
 
 - Python  
 - Pandas, NumPy  
-- Scikit-learn, XGBoost  
+- Scikit-learn 
 - Matplotlib, Seaborn  
 - SMOTE (for class imbalance handling)  
 - Jupyter Notebook & Google Colab for modeling and experimentation  
-
----
-
-## 🚀 Potential Extensions
-
-- Incorporate time-series clinical data and medical history  
-- Use SHAP or LIME for per-patient explanation and interpretability  
-- Develop a web app using Streamlit or Flask for real-time prediction  
-- Integrate with EMR (Electronic Medical Record) systems  
-- Add additional predictors like cholesterol, medication usage, and physical activity
 
