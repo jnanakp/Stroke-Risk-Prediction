@@ -1,6 +1,6 @@
 # 🧠 Stroke Risk Prediction
 
-This project aims to predict the likelihood of stroke in patients using demographic and clinical data. Developed as part of the **Healthcare Analytics (DSO 568)** course at the University of Southern California, the project supports early intervention by helping healthcare providers identify high-risk individuals during routine checkups.
+This project aims to predict the likelihood of stroke in patients using demographic and clinical data. Developed as part of the Healthcare Analytics (DSO 568) course at the University of Southern California, the project supports early intervention by helping healthcare providers identify high-risk individuals during routine checkups.
 
 Combining machine learning techniques with medical insights, the model offers a scalable and interpretable solution for proactive stroke prevention.
 
